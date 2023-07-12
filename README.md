@@ -79,9 +79,9 @@ Follow these steps to set up the project:
 
 3. Install the required packages by running the following command:
    
-    pip install -r requirements.txt
+    pip install -r lib-req.txt
 
-    This command will install the necessary packages specified in the `requirements.txt` file.
+    This command will install the necessary packages specified in the `lib-req.txt` file.
 
 ## Usage
 
