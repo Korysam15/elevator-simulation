@@ -96,7 +96,7 @@ To run the code via the Python command line, follow these steps:
 4. Run the following command:
 
 ```bash
-python main.py --floors 12 2 9 1 32
+python app/main.py --floors 12,2,9,1,32
 ```
 
 Replace the `--floors` argument with your desired list of floors to visit. You can provide multiple floor numbers separated by spaces.
